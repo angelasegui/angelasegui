@@ -11,7 +11,7 @@
 - [Drive](https://www.imdb.com/title/tt0780504/)
 - [F1](https://www.imdb.com/es-es/title/tt16311594/?ref_=fn_all_ttl_1)
 
-![Cartell de la pel·lícula Drive](https://m.media-amazon.com/images/M/MV5BMTI1NjU3NjQ0Ml5BMl5BanBnXkFtZTcwNDQ0MzY0NA@@._V1_FMjpg_UX1000_.jpg)
+![Cartell de la pel·lícula Loa juegos del hambre](https://play.google.com/store/movies/details/Los_juegos_del_hambre_En_llamas_VE?id=W21xmHGwkhk&hl=es)
 
 ---
 
