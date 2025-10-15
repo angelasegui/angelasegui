@@ -13,12 +13,3 @@
 
 
 ![Los Juegos del Hambre](https://upload.wikimedia.org/wikipedia/en/4/42/HungerGamesPoster.jpg)
-
-
-
-
-
-
----
-
-Gràcies per visitar el meu perfil! 😊
