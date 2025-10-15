@@ -12,7 +12,8 @@
 - [F1](https://www.imdb.com/es-es/title/tt16311594/?ref_=fn_all_ttl_1)
 
 
-![Los Juegos del Hambre](https://m.media-amazon.com/images/I/51c8wQ6w3nL._AC_.jpg)
+![Los Juegos del Hambre](https://upload.wikimedia.org/wikipedia/en/4/42/HungerGamesPoster.jpg)
+
 
 
 
