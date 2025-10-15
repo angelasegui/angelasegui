@@ -3,17 +3,26 @@
 ## Desenvolupament d’Aplicacions Web
 ### Cicle Formatiu de Grau Superior en Informàtica
 
----
+-# Llista de Pel·lícules
 
-### 🎬 Les meues pel·lícules preferides:
-- [Inception](https://www.imdb.com/title/tt1375666/)
-- [The Shawshank Redemption](https://www.imdb.com/title/tt0111161/)
-- [Interstellar](https://www.imdb.com/title/tt0816692/)
-- [Spirited Away](https://www.imdb.com/title/tt0245429/)
+- **Los Juegos del Hambre**  
+  [IMDB](https://www.imdb.com/title/tt1392170/)
 
-![Cartell de la pel·lícula Inception](https://m.media-amazon.com/images/I/51v5ZpFyaFL._AC_.jpg)
+- **Divergente**  
+  [IMDB](https://www.imdb.com/title/tt1840309/)
 
----
+- **Drive**  
+  [IMDB](https://www.imdb.com/title/tt0780504/)  
+  ![Drive](https://m.media-
 
-Gràcies per visitar el meu perfil! 😊
+- **F1: Drive to Survive**  
+  [IMDB](https://www.imdb.com/title/tt9140554/)
+
+  amazon.com/images/M/MV5BMTI1NjU3NjQ0Ml5BMl5BanBnXkFtZTcwNDQ0MzY0NA@@._V1_FMjpg_UX1000_.jpg)
+--
+
+ 
+
+
+
 
