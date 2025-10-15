@@ -1,16 +1,19 @@
-## Hi there 👋
+# Àngela Seguí
 
-<!--
-**angelasegui/angelasegui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Desenvolupament d’Aplicacions Web
+### Cicle Formatiu de Grau Superior en Informàtica
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎬 Les meues pel·lícules preferides:
+- [Inception](https://www.imdb.com/title/tt1375666/)
+- [The Shawshank Redemption](https://www.imdb.com/title/tt0111161/)
+- [Interstellar](https://www.imdb.com/title/tt0816692/)
+- [Spirited Away](https://www.imdb.com/title/tt0245429/)
+
+![Cartell de la pel·lícula Inception](https://m.media-amazon.com/images/I/51v5ZpFyaFL._AC_.jpg)
+
+---
+
+Gràcies per visitar el meu perfil! 😊
+
